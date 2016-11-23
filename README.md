@@ -6,7 +6,6 @@
 Go to `Atom > Preferences...` then search for **JavaScript Snippets** in Packages tab.
 Restart atom.
 --->
-
 ## Development
 
 ```sh
@@ -42,6 +41,14 @@ $.fn.extend({
     ${1:methodName}: function (${2:options}) {
         ${3://body...}
     }
+});
+```
+
+### [jqr] $(function(){})
+
+```javascript
+$(function() {
+    ${1:// body...}
 });
 ```
 

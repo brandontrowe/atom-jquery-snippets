@@ -1,9 +1,9 @@
 {
-  "name": "javascript-snippets",
-  "main": "./lib/javascript-snippets",
-  "version": "1.2.1",
-  "description": "JavaScript & NodeJS Snippets for Atom",
-  "repository": "https://github.com/zenorocha/atom-javascript-snippets",
+  "name": "atom-jquery-snippets",
+  "main": "./lib/atom-jquery-snippets",
+  "version": "0.0.2",
+  "description": "jQuery Snippets for Atom",
+  "repository": "https://github.com/brandontrowe/atom-jquery-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
