@@ -6,7 +6,7 @@
 Go to `Atom > Preferences...` then search for **JavaScript Snippets** in Packages tab.
 Restart atom.
 --->
-## Development
+## Install
 
 ```sh
 $ cd ~/.atom/packages
@@ -15,7 +15,7 @@ $ cd atom-jquery-snippets
 $ apm install
 $ apm link
 ```
-## JQuery
+## Snippets
 
 ### [jqa] jQuery.ajax()
 
@@ -52,12 +52,13 @@ $(function() {
 });
 ```
 
-## Contributing
+## Develop and Contribute
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+1. Fork it
+2. Clone the repo `git clone https://github.com/brandontrowe/atom-jquery-snippets.git`
+3. Create your feature branch: `git checkout -b my-new-feature`
+4. Commit your changes: `git commit -m 'Add some feature'`
+5. Push to the branch: `git push origin my-new-feature`
+6. Submit a pull request
 
 ## Based on [Javascript Snippets for Atom](https://github.com/zenorocha/atom-javascript-snippets) by Zeno Rocha
