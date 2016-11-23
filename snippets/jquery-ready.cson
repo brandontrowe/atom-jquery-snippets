@@ -1,6 +1,6 @@
 ".source.js, .source.jsx, .source.ts, .source.js-semantic":
   "JQuery Ajax":
-    "prefix": "jqr"
+    "prefix": "jquery"
     "body": """
     $(function() {
         ${1:// body...}

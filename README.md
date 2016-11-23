@@ -17,7 +17,15 @@ $ apm link
 ```
 ## Snippets
 
-### [jqa] jQuery.ajax()
+### [jquery] $(function(){})
+
+```javascript
+$(function() {
+    ${1:// body...}
+});
+```
+
+### [ajax] jQuery.ajax()
 
 ```javascript
 $.ajax({
@@ -34,21 +42,13 @@ $.ajax({
 });
 ```
 
-### [jqe] jQuery.fn.extend()
+### [extend] jQuery.fn.extend()
 
 ```javascript
 $.fn.extend({
     ${1:methodName}: function (${2:options}) {
         ${3://body...}
     }
-});
-```
-
-### [jqr] $(function(){})
-
-```javascript
-$(function() {
-    ${1:// body...}
 });
 ```
 
